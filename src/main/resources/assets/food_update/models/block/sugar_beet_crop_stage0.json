@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "food_update:block/beetroots_stage0"
+  }
+}

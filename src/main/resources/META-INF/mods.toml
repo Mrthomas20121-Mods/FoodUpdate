@@ -6,7 +6,7 @@ issueTrackerURL="https://github.com/Mrthomas20121/FoodUpdate/issues"
 [[mods]]
 modId="food_update"
 version="${file.jarVersion}"
-displayName="Foregoing Tweaker"
+displayName="Food Update"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/food_update"
 #logoFile="tinkers_reforged_logo.png"
 authors="Mrthomas20121"

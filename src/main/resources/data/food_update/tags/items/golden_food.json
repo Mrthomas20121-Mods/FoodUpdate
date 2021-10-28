@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:golden_apple",
+		"minecraft:golden_carrot",
+		"food_update:golden_cooked_beef",
+		"food_update:golden_cooked_chicken",
+		"food_update:golden_cooked_cod",
+		"food_update:golden_cooked_mutton",
+		"food_update:golden_cooked_porkchop",
+		"food_update:golden_cooked_rabbit",
+		"food_update:golden_cookie",
+		"food_update:golden_cooked_salmon"
+	]
+}

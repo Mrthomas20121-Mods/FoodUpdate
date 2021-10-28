@@ -2,10 +2,16 @@
 	"item.food_update.golden_cooked_beef": "Golden Cooked Beef",
 	"item.food_update.golden_cooked_chicken": "Golden Cooked Chicken",
 	"item.food_update.golden_cooked_cod": "Golden Cooked Cod",
-	"item.food_update.golden_cooked_Mutton": "Golden Cooked Mutton",
-	"item.food_update.golden_cooked_porkshop": "Golden Cooked Porkshop",
+	"item.food_update.golden_cooked_mutton": "Golden Cooked Mutton",
+	"item.food_update.golden_cooked_porkchop": "Golden Cooked Porkchop",
 	"item.food_update.golden_cooked_rabbit": "Golden Cooked Rabbit",
 	"item.food_update.golden_cooked_salmon": "Golden Cooked Salmon",
 	"item.food_update.golden_cookie": "Golden Cookie",
+	"item.food_update.red_potatoes_seeds": "Red Potatoes seeds",
+	"item.food_update.sugar_beet_seeds": "Sugar Beet seeds",
+	"item.food_update.red_potatoes": "Red Potato",
+	"item.food_update.sugar_beet": "Sugar Beet",
+	"tile.food_update.red_potatoes_crop": "Red Potato Crop",
+	"tile.food_update.sugar_beet_crop": "Sugar Beet Crop",
 	"itemGroup.food_update": "Food Update"
 }

@@ -1,5 +1,6 @@
 package mrthomas20121.food_update;
 
+import mrthomas20121.food_update.init.FUItems;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 
@@ -14,6 +15,6 @@ public class FoodUpdateItemGroup extends ItemGroup {
     @Nonnull
     @Override
     public ItemStack makeIcon() {
-        return new ItemStack(ItemRegistry.golden_cooked_beef);
+        return new ItemStack(FUItems.golden_cooked_beef);
     }
 }
